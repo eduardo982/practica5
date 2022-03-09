@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+    margin: 10px;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    padding: 10px;
+}
+main{
+    position: static;
+    top: 150px;
+}
+article{
+    
+    margin: 10px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    background-color: blue;
+    color: bisque;
+}
+h1{
+    color: black;
+    position:static;
+    margin-left: 60px;
+
+}
+h2{
+    color: blueviolet;
+    margin: 0px;
+    position: static;
+}
+#caja1{
+    margin: 3px;
+}
